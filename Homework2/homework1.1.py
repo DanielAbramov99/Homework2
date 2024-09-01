@@ -1,0 +1,6 @@
+x=int(input("number 1"))
+y=int(input("number 2"))
+z=int(input("number 3"))
+sum=int(x+y+z)
+sum2=int(x*y*z)
+print(sum,sum2)
